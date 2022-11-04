@@ -1,4 +1,5 @@
-Emilie Grand’Pierre
+**Emilie Grand’Pierre**
+
 December 2022
 
 # Introduction—
