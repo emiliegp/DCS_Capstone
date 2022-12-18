@@ -1,0 +1,13 @@
+0
+How to build a fintech which needs Neobank services?
+2022-10-04 06:08:15
+"I have been trying to get information on this but can’t really have much of it.
+
+Do fintech companies develop their own Neobanks from scratch or do they leverage any other neobank service?
+
+How do developers test their application with fake money transactions in their neobank?
+
+I have been trying to get a hold of a service which can provide neobank services but all of them require talking to their sales staff etc. which I’m not getting contacted by.
+
+How should I go about this problem? How do I create my own neobank for my fintech application?"
+"[""You want reddit to tell you how to set up a neobank? Come on geez, I'm sorry but this isn't the way. If you don't know how and can't (won't? I don't understand) speak to the sales people at relevant vendors, I suggest you hire a consulting firm to advise you."", 'ipayout just launched a banking as a service solution', ""It's not really neobank, but it would be good for you to understand at some low-level point how card payments work if you want to build your own neobank:\n\n[https://fintechwave.substack.com/p/card-payments-for-dummies](https://fintechwave.substack.com/p/card-payments-for-dummies)\n\nNow, there are solutions on the market for specific neobanking purposes, but we'll cross that bridge when you got there."", 'Stripe also offers Banking as a Service (BaaS) solution (US only for now).', '[deleted]', 'This old talk from FintechDevcon was super interesting and they made it public so a friend sent me the link - should help answer a lot of questions \n\nhttps://youtu.be/iWHX5G0SiKQ?list=PLAsKzbz1YBdn_4qFqBTPDlUhKKScvdC3h', 'I can understand, I’m a developer and looking to experiment with an idea i have for fintech application.\n\nBut do you have any idea or know if there is any BAAS which provides API after just simple registration, or does every BAAS requires speaking to their Sales rep?', 'hey thanks a lot, i’ve sent you a dm', 'Tons of new money selling services as the defacto 3rd party to integrate with a baas. It’s up to you if you want to go that route. If not, Look up the baas list in this sub']"

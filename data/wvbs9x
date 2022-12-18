@@ -1,0 +1,9 @@
+0
+What's the first step to issuing virtual cards?
+2022-08-23 11:48:36
+"Hey! I live in Trinidad and Tobago where only 15% of people have credit cards.
+I'm trying to build a platform where people could send in cash, or money via a bank transfer, and receive an account with a balance and a virtual card on it.
+How do I start issuing virtual cards? Or partnering with companies that do?
+Since the business is based solely on the virtual card and on the way it works, I can't start planning until I know everything about the card and the way they work.
+Thanks guys. Have a great day."
+"['https://notafintech.company/\n\n^ this will do it.', ""I saw Stripe Issuing but I wasn't sure if they offer cards for businesses that need them, or businesses that wants to get into the business of issuing cards."", ""First you need to find institutions in your country that issue debit cards and have all regulatory requirements (you mention credit cards, but that is much more complicated because it's a lending product).\n\nCheck if they have the option to issue virtual cards (they might have some API solution). Pricing is usually $5-10 per issued card.\n\nTo learn how it works check this (its for US but it is a good starting point, there is a section about cards) https://fintechwave.substack.com/p/how-to-launch-an-online-bank"", 'Appreciate it sir. Thanks very much']"

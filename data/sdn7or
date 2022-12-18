@@ -1,0 +1,15 @@
+0
+Consumer Lending License Advice Needed
+2022-01-27 13:19:04
+"Hey all,
+
+I'm the founder of a non-bank consumer lending fintech and I'm going through the horror show of obtaining state lending licenses.  A couple of questions: 
+
+1) What states can I lend in without a license (please include the conditions like can lend up to X% for Y dollar amount)?
+
+2) What states with large populations (NY, IL, CA, etc.) have reasonable processes for obtaining lending licenses?  (Short timeframes, minimal requirements, minimal fees).
+
+3) Are there any good workarounds for obtaining lending licenses like low-cost rent-a-charter fintechs?  We are too early stage to pay $5k+ per month for some of the platforms we've found.
+
+Thank you!"
+"[""You're probably not going to get thorough/satisfying answers to these questions without paying a law firm.  McGlinchey is good at this stuff and reasonably cheap.  Not legal advice obviously, but you should check out some of the National Consumer Law Center guides.  E.g. [https://www.nclc.org/images/pdf/pr-reports/InstallmentLoans-AppendixC.pdf](https://www.nclc.org/images/pdf/pr-reports/InstallmentLoans-AppendixC.pdf)  A little dated, but summarizes some of the state restrictions/license requirements.  Short answer in my experience is that, depending on your product structure, most of the places with decent volume will require licenses. The states you want most (CA, NY, TX) can be painful to get.  What a lot of folks do at early stage is just go without licenses--eventually when you get big enough, you'll get on regulators' radar and pay some fines for unlicensed activity.  But it might be easier to deal with those fines in a couple years than to try to wrangle all the licenses up front.  Gives you time to hone product, ensure fit etc."", 'Are you doing the lending, or are you using something like cross river, web bank or even financial?\n\n\\- You need a law firm to do a survey for you based on your the products you plan to offer.\n\n\\- No good work arounds for the lending license, even if you work with webbank you will still need some licenses.\n\nGet a lawyer, assign someone to run compliance, and understand that doing compliance is expensive but is ultimately a moat.', 'Thanks for your comment!  Any clue what the fines might look like (or have a specific example you could share)?  I just don’t want to gain some traction and get fined out of existence.', 'It\'s tough to predict fines bc there\'s a lot discretion, unless there\'s a statutory penalty specified in the law I think the regulators kind of make up a $$ based on how ""bad"" they think you are.  But generally in low volume, the fines aren\'t crazy -- 10s of Ks?  E.g. I know LendingClub got a fine from MA a few years ago for unlicensed activity.  The fine was $2mm, but LC was violating a prior agreement with MA and had made over 45,000 loans there.  So that\'s probably an exceptionally high number.']"

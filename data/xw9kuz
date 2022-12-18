@@ -1,0 +1,17 @@
+0
+Which payment gateway is best for online payment processing?
+2022-10-05 23:39:41
+"There's no one-size-fits-all answer to the question of which payment gateway is best for an online business. It depends on a number of factors, including the geographical location of your business and your customers, how big your average transactions are, what kind of payment methods your clients prefer, and more.
+
+However, we can take a look at some differences between three popular payment gateway options: Stripe, PayPal, and Braintree. How do they differ?
+
+➤ **Pricing and fees** are important considerations. PayPal’s Pro plan comes at a monthly fee of 30 USD, while Braintree and Stripe don’t have such charges. Stripe takes 2.9% + $0.30 per transaction for most cards, Braintree’s fee per transaction is 2.59% + $0.49, while PayPal charges from 2.59% + $0.49 to 2.99% + $0.49 for domestic transactions and an additional fixed fee for international transactions.
+
+➤ **Developer-friendliness** is another key consideration. Stripe and Braintree both have well-documented APIs with easy integrations, while PayPal's integration can be more complex. Stripe also offers pre-built plugins for popular e-commerce platforms like Shopify and WooCommerce.
+
+➤  In terms of **supported payment methods**, all three support major credit and debit cards, but Stripe and Braintree also support Apple Pay, Google Pay, and other emerging payment methods like Bitcoin.
+
+➤  And finally, in terms of **currencies and countries supported**, Stripe leads the way with over 135 currencies supported in 47 countries. PayPal comes in second with over 25 currencies supported in over 200 countries. Braintree lags behind slightly with support for 130 currencies in 45 countries.
+
+All in all, the best online payment gateway for your business will be based on your company’s and clients’ needs and expectations. Check out this guide that compares the three gateways in much detail: [Stripe vs PayPal vs Braintree: Which Payment Gateway Is Better?](https://www.upsilonit.com/blog/stripe-vs-paypal-vs-braintree-which-payment-gateway-is-better)."
+"['In terms of currencies and countries, and specially considering emerging markets, I think dLocal also needs to be considered', 'I have an experience in both development custom and integration third party payment systems.\nBack to PayPal Braintree and stripe\nIn fact  Braintree belongs to PayPal just with better API, but pay attention Braintree has certain restrictions so there is quite high chance you will not get production account. PayPal API is shitty and has sometimes weird behavior. PayPal sandbox has glitches. So best choice is Stripe.', 'Stripe. Great product, support, API and documentation.', '[removed]']"

@@ -1,0 +1,6 @@
+0
+Joint account with different banks
+2022-07-24 19:28:46
+"Hi!
+Imagine each family member has an account in their own bank. How would you implement a service which allows them to manage family's budget in a similar way that joint accounts do?"
+"['Askzeta.com', 'In Europe this is what the open banking / PSD2 setup allows. You delegate authority to another app to check bank data and issue transfers, which aggregates the data from multiple banks', ""Best bet now, is bank somewhere that has apps/olb that has a feature that lets you 'add' 3rd party account aggregation and then use either their PFM or export it via csv into QuickBooks or something."", 'Thanks for the tip!', 'Thank you!']"

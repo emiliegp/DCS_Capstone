@@ -1,0 +1,26 @@
+0
+What are you looking for in a stock data API?
+2022-07-07 01:09:08
+"Hello,
+
+I've been working on a stock data API for the past few weeks and have been wondering:
+
+* What are the most sought out for features?
+* What kind of pricing seems acceptable?  
+There is barely any cost for me to run it, other than hosting and an S3 storage server.
+* What kind of subscription model do you prefer? (Pay per call, fixed monthly fee, etc.)
+
+**The current features I have:**
+
+* Coverage over every market
+* Real time quotes (Open, Close, High, Low, Adj Close, Volume)
+* Past quote
+* Changes (Between 2 dates)
+* Dividend History
+* Ticker lookup (Could be used for a search bar, similar to yahoo finance's search bar)
+
+**What I plan to add next:**
+
+* Income statements
+* Balance sheets"
+"['I think the big shops pay $$ for availability and fidelity. If you can guarantee that at say 5 decimals then you might be on to something', 'L2 or L3 data at prices that aren’t absurd.  Anything that isn’t l2+ is expected to be free given the competition in the space', 'How about placing an order?', 'What is the availability and SLA of your data source?  You can’t get much better than that.', 'url? (dm is ok)', ""I'm looking to buy access to a stock data API for a consumer finance application. Need everything you described + Following:\n\nDaily Performance\nWeekly Performance\nMonthly performance\nYTD performance\n5 yr performance\n\nIndustry facts\n\nPerformance Vs comparable companies\n\nIncome statement performance i.e. how costs/revenues/profit has evolved over 1-5 yr period\n\nWhat markets are you covering? \n\nDM for further info"", 'What do you mean by 5 decimals? Data precision?', 'What do you consider absurd?', '99.99999% uptime, accuracy (no missing historical values)', '$400+ per month for api access', 'Oh right, well thats obvious. For the misisng data, I have a couple ideas on how I coule achieve that.\n\n\nThank you for your answer', 'Oh, that is indeed absurd. I have practically no cost other than hosting and storage. Actually started this project for personal need and because I cant afford a 400$ per month api.\n\nPricing would be way lower. I have a hard time justifying how I would charge a fixed rate above 50$ a month. Unless there are extras, or custom needs.']"

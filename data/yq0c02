@@ -1,0 +1,5 @@
+0
+Which companies handle the BIN numbers that are registered to different credit/ debit cards? Are there certain companies that banks/fintech go to to secure their unique BIN?
+2022-11-09 09:16:30
+"For example, Fold App has BIN 4403-93xx-xxxx-xxxx for their debit card"
+"['The card scheme issues the institution with a bin. So visa, mastercard etc', 'You must partner with an FDIC bank to issue a card and thus get a BIN', 'Thanks. You would need to partner with a real bank though right in order to secure services/underwrite your program?', ""Yeah, that's generally how it's done. Even some very big players like Stripe do it that way. Lots, of banks offering BaaS now""]"

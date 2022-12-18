@@ -1,0 +1,10 @@
+0
+Programmatically picking which card to pay with through mobile
+2022-03-06 07:44:33
+"Can an app open any of the major payment apps (google pay, apple pay, etc.) with a specific card/payment method?
+
+Assuming that was possible, how could it be useful? Some ideas that came to mind are:
+
+* Maximizing cash-back rewards. For example, if GPS could detect you're in a grocery store it  picks the card paying the highest rate for that merchant type
+* Meeting minimum spending requirements for a card/bonus"
+"['You should check out Curve, including the new smart rules feature that’s launching very soon! (In EU and UK now, US soon)', 'No. The mobile card apis aren’t available to do that. Would be nice though', ""that's cool, thanks  \n\n\ni'm curious how they made this feature work https://www.curve.com/en-us/features/go-back-in-time""]"

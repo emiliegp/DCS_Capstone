@@ -1,0 +1,11 @@
+0
+Does anyone know any API that tracks acquisition and mergers?
+2021-10-30 08:50:51
+"Hi, Im building a bot that tracks insider performance and I ran into this problem where like 20% of my database are from stocks that are delisted because of bankruptcy, brought out, or merger. 
+
+Is there an API out there where I can put in a ticker symbol and it will output the status and if there was a merger/acquisition, how much was the price per share?
+
+Thank you. 
+
+Preferably free if possible"
+"['I’m not aware of the API that does this well and real-time. \n\nWe did a crawling of the existing info and update it monthly, so maybe this could be helpful for you:\n\nhttps://www.awesomefintech.com/acquired/', 'Maybe check Crunchbase? Yahoo Finance uses them for all of their startup and small company information.', 'check xignite corporate actions feed', ""great website! but there's no search bar for some reason."", 'Thanks. When you go to https://www.awesomefintech.com/ take a look at the top right corner.', 'Oh a search button doesnt appear under the /acquired tab', 'True. There’s a general search available on the main page. But not for the acquired once yet.']"

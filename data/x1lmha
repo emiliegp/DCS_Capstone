@@ -1,0 +1,7 @@
+0
+How to scrape Chase Bank
+2022-08-31 01:12:04
+"I'm trying to scrape chase bank page using Selenium but from several posts it seems that distill will prevent us to do so and also saw some blog post from chase where they want to stop this kind of behavior. 
+
+What's a good way of being able to scrape these bank websites?"
+"['If they have a blog post discouraging this behavior it’s probably because they don’t want you doing it. \n\nIf you’re really dead set on doing this though, you should contact them and see if there’s a way to preform whatever task you’re trying to do.', 'The bank should have a developer portal and allow you to connect using OAuth. You may have to be a certain size in order to get that (disclosure, I previously worked for Plaid)']"

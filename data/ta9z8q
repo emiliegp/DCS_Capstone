@@ -1,0 +1,21 @@
+0
+Innovative fintech startup launches Kickstarter campaign
+2022-03-10 02:16:03
+"Hi dear community,
+
+Together with two friends I have developed a tool after work and on weekends that allows you to view all your assets centrally - from crypto, precious metals and real estate to stocks. Unfortunately, stocks are currently still under development. Already implemented is the connection to bank accounts, cryptowallets, precious metals and real estate in version 1.
+
+The tool is called Assetsquare ([https://assetsquare.com/](https://assetsquare.com/)).
+
+We know it's not perfect yet and there are still many features missing.
+
+Nevertheless, we are very happy about feedback and if we realize that the tool is well received we will add many more cool features.
+
+We are currently launching a Kickstarter campaign to further develop the tool with the community in the future and we still have a lot of plans 😁🚀
+
+Now I'm sure many are wondering what it will cost. The tool will remain permanently free of charge. In the future, we will add a few more analysis features for which you will need a subscription to finance the further development. But the basic functionality will always remain free of charge!
+
+Since there are quite a few techies in this sub, here is some info about the tech stack 🤓: React with mui, AWS Cloud-Native architecture (Lambda, Cognito, API Gateway), Postgres
+
+[https://www.kickstarter.com/projects/assetsquare/the-complete-solution-for-all-your-assets/](https://www.kickstarter.com/projects/assetsquare/the-complete-solution-for-all-your-assets/)"
+"['A few companies do this. Marcus.com for example', ""Why don't you do crowd investing? I am not sure kickstarter is really good for startup companies."", 'That’s a promising startup. As a full stack software engineer, can I join your team? I can quickly implement features at reasonable price.', 'You need to nail down your USP\n\n$50k won’t get you far. \n\nCheck the competition:\nhttps://www.awesomefintech.com/category/wealth-tech/\n\nAlso Germany have great grants for startups:\n\nhttps://www.bmwi.de/Redaktion/EN/Publikationen/exist-business-start-up-grant.pdf\n\nhttps://www.bmwi.de/Redaktion/EN/Dossier/financing-for-start-ups-company-growth-and-innovations.html\n\nWe plan to do a demo day for several dozens FinTech founders on June 1st, in case you’d be ready to open up your pre-seed round then and show first traction.', 'postgres I can accept, the rest.. ;)', '>We plan to do a demo day for several dozens FinTech founders on June 1st, in case you’d be ready to open up your pre-seed round then and show first traction.\n\nWe are currently planning a pre-seed round. We would be happy to get in touch.', 'Sure. Feel free to DM me.']"

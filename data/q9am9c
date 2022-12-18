@@ -1,0 +1,5 @@
+0
+Is there a free API where you can get stock market data for commercial use?
+2021-10-16 23:00:34
+""
+"['The one that will be available for the commercial use will be probably very limited and delayed by its nature. So it won’t do much help for your end customer. \n\nUnless you just want to show some stats. In that case just buying a set of historical data could be an option. \n\nIn this market it’s usually latency vs amount of data.', 'For free your data will be very limited and not real time, but many websites offer subscription based models to have access to full data sets (historicals, after hours, real time)']"

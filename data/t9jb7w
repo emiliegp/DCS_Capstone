@@ -1,0 +1,9 @@
+0
+Plaid/Amex integrations
+2022-03-09 02:31:06
+"Every new finance app out there like truebill or YNAB that uses plaid to get AMEX data in works for about 4-5 days and then just stops working, so I've quit using just about every app out there. 
+
+They recommend deleting the integration and recreating it, but thats not really acceptable. 
+
+Anyone else had this experience?"
+"['Teller is quite stable for us on several projects. \n\nMX did the job too. \n\nYou can check others here:\n\nhttps://www.awesomefintech.com/category/open-banking/', 'Yes, this is one of the main reasons I built https://mygraph.ca. Was tired of Mint and YNAB having messed up data because of flakey account linking.', 'MX keeps connection with Amex a lot longer than others.']"

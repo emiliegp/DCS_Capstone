@@ -1,0 +1,15 @@
+0
+"Hi al I just started collaborating on a project with a UI/UX designer with the aim to facilitate and streamline the gift giving process and have an ambitious deadline, looking for collaborators."
+2021-11-30 14:42:31
+"objective
+
+To develop a platform to bring together the gift giver and receiver and facilitate the exchange of gifts. An all encompassing gift giving platform from the discovery of people's desired items to the completed delivery.
+
+For family members and friends who thoughtfully give presents but dislike the hassle and worry.
+
+In a world where people's desired items are unknown and digital gift giving is a tumultuous process.
+
+We aim to offer both the gift giver and receiver a platform to handle all gift giving related processes.
+
+Depends on the assumption that gift giving digitally is unnecessarily complicated."
+"['Interesting, what kind of help do you need?', ""As this project will grow beyond the initial idea and into a collaborative purchasing platform, it will become a lot more Fintech heavy. So someone who knows how to confidently handle online monetary transactions (stripe is what I'm planning to use unless convinced otherwise), also an app developer, and someone who can confidently navigate the Amazon API. The tech stack is here: https://github.com/CakeCrusher/Project-Wishlist"", 'So it’s like a group gifting platform? \nPooling money together to buy a gift for someone?', 'its a group purchasing platform, gifting is only an aspect of what you could do. I am thinking it could be from a gift, to a split check when dining out, up to even organization subsidies when purchasing items.', 'I like it. \n\nHave you considered using crypto as the way to merge the money together. \n\nI had a idea like this a few years ago but where got caught up at was how to merge the money together from different services. Without having to put up money while waiting for bank transfers to clear. You’d need to raise cash for that I think.\n\nOr you could use something like Stellar or BTC lightening and have instant settlement']"

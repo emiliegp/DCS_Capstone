@@ -1,0 +1,5 @@
+0
+Your best practices of building finance reference data
+2022-06-03 03:05:06
+"We built our own reference data tables for currencies, financial terms, legal terms etc. However as we process more data sources, we are facing more and more one to many mappings (different terms reference the same thing). Constantly need to reconcile and hard to manage updates. Different teams end up create their own translation tables or hard code it. What is the best way to design this? Is there any good tool you have tried? Thanks"
+['Have you tried Flyway?']

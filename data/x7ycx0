@@ -1,0 +1,19 @@
+0
+Fast bank account creation (ideally API) for SPV?
+2022-09-07 17:07:23
+"I  see many of these SPV (Single Purpose Vehicles) platforms being able to setup an LLC, get EIN,  open bank in <48h. This is pretty impressive since for the average  joe this takes very long.
+
+I dug deep into this since I wanted to start a syndacate for my group without spending 1-2% in fees in starting SPV per deal.
+
+Let's  start with LLC: most of these groups go through the Series LLC route,  so no need to file anything, so this part is immediate - one could have a  simple PDF generator that starts the LLC for the SPV via a template.
+
+Then  there is the EIN: this one can be obtained online in matter of minutes -  one could make a small program that does submission to the IRS to receive the EIN.
+
+But then.. bank account: this step generally requires KYC for the newly created (series) LLC, plus manual work.
+
+How  do they do the last steps? What are the banks that allow to create a  fast bank account for SPVs? How can Vauban, Angellist, Allocate open  very fast bank accounts?
+
+I believe there must be some sort of bank that makes these kind of deals or offer these services.
+
+Do you have experience into this?"
+"['There KYC isn’t as much as you’d think, it’s just a form. Tons of companies offer it: Stripe’s Treasury product, green dot, etc…\n\nYou can go get a bank account right now, for free, in less than 10 minutes.\n\nSource: I use Stripe Treasury to issue trust accounts at my job', 'On the whole I’ve always thought it’s just banks being shite, with crap policies, procedures, teams in AML who are paid to “manage the risk” rather than have any kind of systematic or business sense. These teams often get left and fester with a lack of support and ageing archaic systems and become short staffed, leading to being so internally focused that they start defining their own “SLA” which inevitably results in 10 business days, which when they’re not busy means leave the task for 6 days before review and when they are busy means everything is already f**ked and so the SLA goes out the window anyway. \n\nNew “challenger” banks generally don’t have these problems because they’re started in the modern world and everything is a process and can be optimised. That same AML team feel on cloud 9 because everything is done for them almost automatically.', ""You could take a look at other fintechs out there that do BaaS for businesses - Mercury, Brex, Unit, etc. There are many many to choose from.\n\nOn the KYC front, you won't be able to open an account anywhere without having all of your corporate paperwork in place, including the SSN issued and able to provide evidence, if requested. This is a highly regulated space so any company worth its weight will have very solid KYC and fraud practices. If they don't, you should take that as a sign to step away IMO."", 'Of you check the providers for many neobanks you will see 2-4 frequent providers. I would start with contacting them first', 'Please let us know if you managed the solution.', 'do you have suggestions for bank accounts in <10mins or was the suggestion to just use Stripe Treasury?', 'I am totally OK doing KYC, what I am not ok is doing KYC and wait 2-3 days for each of my SPV that have the same investors', ""Yeah Stripe Treasury has been pretty good, I'd recommend it. In general, you're looking for Banking as a Service (BaaS), so if you google that you'll get a bunch of folks to choose from. Treasury Prime is another one we were looking at before picking Stripe."", 'what made you pick one over the other?', ""It's a big company with a history of success, and we had already built out some products with their stack so we already had the relationships with a few people to provide support if we needed it (which we did).""]"

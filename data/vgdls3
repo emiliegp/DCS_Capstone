@@ -1,0 +1,24 @@
+0
+Lock up funds for projects
+2022-06-20 15:10:10
+" 
+
+Looking for feedback regarding a concept that I am thinking would add value back to the broader community.
+
+I myself am a victim of several crypto projects. No matter how deep the research is (reading whitepapers, checking if the team is doxxed and credible, tokenomics, etc.) the project always either seems to get rugged or its activity decays, followed by a slow asymptote to oblivion.
+
+In Web2.0 fundraisers typically have their funds locked and released through time upon completion of certain objectives. Similar to the TradFi world, I reckon corporate financing would impose milestones and covenants for companies before fresh funds are being released to them (etc. When the building is 50% completed, release remaining funds to the construction company to finish building the remaining).
+
+Shouldn't NFT projects have the same underlying mechanism too? Instead of giving them the entire mint proceeds, why not lock it in a treasury contract which the NFT holders can have access to view, and the power to vote via an on-chain governance mechanism such that if founders need access to the funds they can create a proposal for it and NFT holders will vote?
+
+Ideal flow:
+
+Project > DAO > Voting > Treasury Unlock
+
+Why does it seem that most NFT project founders have 100% of the entire proceeds upon mint, and what's left is for the community to 'trust'. This reduces their incentives to hold onto the NFT as they do not really have a 'power or 'say' in the project -> which leads to speculators and bad actors being involved in the project.
+
+To me, many launchpads out there aren't implementing such a mechanism.
+
+My last question is, who decides these milestones? Should the NFT project decide the milestones, or should some third-party opinion weigh in? A parallel would be, does the construction company decides what % of completion should the funds be released, or does a third-party renowned architect/engineer provide his/her opinion?
+
+P.S. I know that some VCs operate in a similar way. I don't know what goes behind a VC funding (whether the funds are locked up for the project treasury). But I am more specifically referring to the smaller projects"

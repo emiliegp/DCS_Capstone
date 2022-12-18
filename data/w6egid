@@ -1,0 +1,13 @@
+0
+Stock Market Screener API
+2022-07-24 07:20:04
+"Hi, 
+
+I am looking for an API that will screen the stock market either for free or relatively cheap. 
+
+With the API I would like to ask a user within an app some questions such as ‘what market would you like to trade?’. Then, based on their selection, the stocks screener changes and lists all the stocks to the user.
+
+I have found APIs such as Financial Modelling Prep and Intrinio however, they are quite expensive and I’m not sure if they would do what I want. 
+
+Any suggestions would be greatly appreciated:)"
+"['[deleted]', 'I think you will need to build this using DriveWealth and polygon.', 'Thanks for your reply :) I’ve taken a look at Alpaca however they don’t seem to have a stock screener api… or at least I can’t find it…and same with AlphaVantage \n\nI will keep looking!', ""Hello there! I am a bot raising awareness of Alpacas\n \n Here is an Alpaca Fact:\n \n Alpacas do not pull up plants by the roots as cattle do. This keeps the soil intact and decreases erosion.\n\n \n ______ \n \n| [Info](https://github.com/soham96/AlpacaBot/blob/master/README.md)| [Code](https://github.com/soham96/AlpacaBot)| [Feedback](http://np.reddit.com/message/compose/?to=JustAnAlpacaBot&subject=Feedback)| [Contribute Fact](http://np.reddit.com/message/compose/?to=JustAnAlpacaBot&subject=Fact)\n \n ###### You don't get a fact, you earn it. If you got this fact then AlpacaBot thinks you deserved it!""]"

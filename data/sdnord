@@ -1,0 +1,15 @@
+0
+Access to raw transaction data of all my accounts across banks
+2022-01-27 13:42:14
+"HI all,
+
+I am looking to get access to transaction data of all my accounts (debit, savings, credit cards) across all my banks. I want to sort of build my own budget overview. I have tried multiple apps and none of them offer what I need.  
+
+&#x200B;
+
+Am I right that I am looking for a service like Plaid? Is there any other service I should investigate? I only need it for myself, not trying to build a commercial product here.
+
+&#x200B;
+
+Thank you"
+"[""Yeah, Plaid can do this. For the use case you're describing (just pulling data from your own personal accounts) it would be free."", 'TrueLayer, SaltEdge or Yodlee - depending on which market you’re in.', 'Thank you!']"

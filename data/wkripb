@@ -1,0 +1,20 @@
+0
+First Ever Financial Router
+2022-08-10 17:55:21
+" 
+
+Hi guys, my name is Michael and I am a team member at Sequence.  I want to introduce Sequence, a new financial platform that we’ve been working on for the past few months.
+
+Sequence a is the first of its kind Financial Router. It empowers you to build a custom architecture for your cash flow. By routing your income sources into it and setting smart rules and IF statements, you can control precisely how much, when, and where you want to route your funds.
+
+Here is what Sequence is about in a nutshell:
+
+1. It makes your money visual. Sequence UI is designed as a ‘Money map’ to help you visualize exactly how your money flows. What you can see, you can manage.
+2. Consolidation. By directing all your income sources into one place and seeing exactly where this money is going, you get a holistic view of your finances. This view can be of your personal finances, household, business, or all of them. Whatever fits your needs.
+3. Smart and specific. Setting Conditionals (IF statements) to your money flow opens up a whole new level of control. Set granular rules to control precisely when, how much and where your money should go.
+4. Actionable. Move money and take action straight from Sequence.
+
+We’re currently in active development, but you can sign up for updates and more information at [https://www.getsequence.io/](https://www.getsequence.io/)
+
+In the meantime, I would love to hear what you think of it and will gladly answer any questions."
+"['Interesting. I programmed something just like this with my mercury account. I like the UI set up!', ""Sounds like the next generation of money management software. It's great that you use the trend of visualization, this is exactly the thing our financial apps lack. But what do you use to connect different accounts? Is it something like Plaid?"", 'What are you using to connect to the accounts? Plaid? MX?', 'Thanks!  \nWe are using Plaid and plan to add MX as well.', ""Thanks u/williamp0044  \nWe'll start off connected to Plaid and we'll add MX as well soon."", ""Cool! Thanks for your answer. If you'll need any help with further development, just let me know. I work for a [company](https://clutch.co/profile/mobidev#summary) that provides fintech development services."", 'Why use both?', 'Connectivity is super important for us as we want to make sure we can connect to as many financial entities as possible']"

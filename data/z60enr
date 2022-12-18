@@ -1,0 +1,27 @@
+0
+"Open-source identity, KYC and risk management platform"
+2022-11-27 23:47:26
+"Hi everyone, We've just launched an open-source identity and risk management platform.
+
+Check it out here: [https://github.com/ballerine-io/ballerine](https://github.com/ballerine-io/ballerine)
+
+In the project you can already find:
+
+\- a fully customizable *KYC* (know your customer) flow & UI, made in Svelte.
+
+\- a case management dashboard for manually approving/rejecting *KYC* requests (know your customer) with built-in OCR & face-matching functionalities.
+
+**Next up:**
+
+\- Adding forms and components for it to be used as a full onboarding flow.
+
+\- Releasing an open-source rule engine, to help automate decisions.
+
+\- Enable KYB (business onboarding) documents and personas approval.
+
+\- Connected backend between our *KYC* flow and the case management dashboard.
+
+We’d love to hear your feedback, suggestions, or any question you’ve got.  
+Would love for you to Star us on GitHub, and if the rest of the project is relevant or interesting to you, follow us and, we’ll update you once new things are available.  
+Thanks!"
+"['What sort of integrations do you offer for email, phone, device intelligence, etc? Or is this just documentary KYC?']"

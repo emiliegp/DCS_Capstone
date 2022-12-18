@@ -1,0 +1,13 @@
+0
+Appending PPP Loan Data
+2022-07-01 08:44:53
+" 
+
+Hello,
+
+I was looking to append publicly available PPP loan data to find the owners of companies, their cell phones, and emails.
+
+Is there a business database anyone suggests to append this data with at scale? 
+
+[https://www.sba.gov/funding-programs/loans/covid-19-relief-options/paycheck-protection-program/ppp-data](https://www.sba.gov/funding-programs/loans/covid-19-relief-options/paycheck-protection-program/ppp-data)"
+"['Out of curiosity - what for?', ""To append is to add something, so I don't think that's what you're after here. \n\n There's a downloadable .csv at the site you linked, which should have all of the data."", ""I buy this information already in leads for a small financing brokerage I do marketing for...but the lead cost is too high - was trying to figure out if I could find a way to do it myself...I'm not optimistic I'll be successful but at the very least it will be a fun attempt and I'll learn something"", 'The data only has the company name and information on the loan amount received. I am trying to find the owner of the company as well and the owners contact information...', 'Assuming this is of value to you, I’d assume you’d need to pay something for it :)\n\nThat said, DNB might have something like what you’re looking for. I would be careful about unsolicited phone calls to business owners’ phones though.']"

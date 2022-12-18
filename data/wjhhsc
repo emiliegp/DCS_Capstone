@@ -1,0 +1,5 @@
+0
+Multi-tenancy regulations in Canada
+2022-08-09 05:17:17
+"Hey guys, does anyone have experience with database multi-tenancy regulations for fintech in Canada? I'm currently working on the database design portion and not too sure which direction I should take. I've been looking around for a while but can't find anything on that topic; any advice would be great, thanks!"
+"[""Generally Canadian regulators don't get too concerned about the details of your technical design as long as you are safeguarding privacy. If you want an expert opinion reach out to someone at Central 1 they handle online banking for 200+ credit unions and banks in Canada via a multi-tenant solution.""]"

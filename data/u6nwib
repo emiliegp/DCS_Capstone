@@ -1,0 +1,11 @@
+0
+How would I start an Escrow service product?
+2022-04-19 07:22:10
+"If I wanted to start a business that offered an Escrow service what tech would I need to build it? 
+
+Would I have one business bank account with an API with payments going in and out? 
+
+Is there any regulations around this type of business?
+
+Is this business classed as a bank?"
+"[""Not exactly my specialty but one of my parent has worked in escrow for 30+ year and I work in banking/fintech so relevant enough. Escrow isn't functioning as a bank they are a neutral third party akin to a lawyer for the buyer and seller that transfers funds and does due dilligence on property, paperwork, taxes, etc... In most instances they are tied to a bank either directly or indirectly but this varies by company.\n\nThe industry is heavily regulated after 2008 and has a variety of laws and regulations that have pushed out small title companies in the past 14 years. Making it difficult to innovate and change. It's really stuck in the old ways since it's such a demanding job and is very much based in the legal atmosphere. (Law is typically the last business the make changes and adapt new technology so its important to keep that in mind).\n\nDeveloping an API is going to depend on how much you know about the industry and the processes involved in it. It's not really a job that can be done remotely as a single file can be 100+ pages of due dilligence for the buyer and seller and contracts and supportingdocuments. The contracts themselves vary based on county and state leading to a high degree of variance for a universal API. \n\nThere is a lot to this. Especially considering how complex and dated the industry is. Feel free to DM me any questions or comment below, but it's going to be an uphill battle from the start.\n\nAlso the people in the job are aging out and they aren't replacing Escrow Officers at a consistent rate across the country due to stress, low pay, and a variety of factors associated with the job. We know many people who can't proceed with the job due to mental and psychological breaks. It realistically will be taken over by lawyers across the country at some point."", 'Escrow is a money servicing business.']"

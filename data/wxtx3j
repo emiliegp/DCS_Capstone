@@ -1,0 +1,9 @@
+0
+Fintech - API question
+2022-08-26 10:10:54
+"Hi, 
+
+I’m a full stack developer and just got into the fintech space. I’ve started to build an app but realized that I need to gather some (a lot:)) of information as I’m nèw to this space. 
+
+If you’re building an app for users to budget and save - what API do you use to connect the users’ bank to your app? I know there are external API’s (there are some startups that offer open banking API) but what if they don’t cater to your specific region. Is the alternative option to build one from scratch? Please advise. Thanks so much in advance!"
+"['I’ll happily discuss this with you.', 'What region?', 'If you’re doing wealth management tool and want to add crypto, we built https://hatchfi.co - basically a plaid for crypto accounts.', 'Middle East. (Kuwait, Saudi, UAE) based users. \n\nWe want users to import their bank accounts onto our app so they could use our savings and budgeting tools. So we need to access all their financial data.', 'Need more information. Which region, and do you need data from checking accounts? Cards?\n\nAnd if the bank you want to get data from doesn’t have an API… I mean you could build the API but it wouldn’t have any data…. You’ll still need to collaborate with the bank on that.', 'If you’re building one from scratch for your region, you should focus on making that your product instead of building a budgeting app :)', '[deleted]', 'Yes we’ve thought about that. But it’s also a longer build time and we prefer to use an already existing API or find an alternative solution. If there is one?', 'I emailed them. So cool that they cater to the region. Can we build features like budgeting and categorizing spendings with Dapi? Have you tried it?', 'Generally for US, Canada and Europe, there’s plaid. Not sure of services for other regions.']"

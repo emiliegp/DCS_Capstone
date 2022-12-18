@@ -1,0 +1,5 @@
+0
+Is there an API for RTP (real-time payments) in the US?
+2022-07-16 18:09:46
+"If I wanted to enable payouts in my app, using RTP how do I do these? Who has the rails for this?"
+"['Moderntreasury and dwolla', ""If you're talking about consumers, you usually need to be inside one of the big networks or existing payment/wallet apps (Zelle, Venmo, etc) to enable that. Beyond that actual payments that hit bank accounts are still largely ACH and wait 2 days to close."", 'Not sure RTP is available yet but check out https://moov.io - they have a community full of smart people who can probably answer that.', 'Only member banks can directly participate for using the TCH RTP solution. So you will have to work with one of the major banks.', ""Most banks don't support real time payments yet. There's a network of them that do I think (the major banks). Last sales pitch I heard was 'it covers 60% of banks'. \n\nIf you're just wanting an API for card payments, Stripe is the big dog I think.\n\nCrypto is an alternative strategy IMO."", 'Very helpful. Thanks!']"

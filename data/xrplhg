@@ -1,0 +1,12 @@
+0
+Where to find ACH specifications?
+2022-09-30 12:13:35
+"Hi all,
+
+I've been tasked with discovery work related to ACH and want to make sure our organization would be compliant with the rules and regulations.
+
+I found this store on the NACHA website: 
+https://www.nacha.org/products/2022-nacha-operating-rules-guidelines
+
+Does this book include enough technical detail suitable for a developer to work? Are there any other resources I should be looking at?  Thanks in advance."
+"['that book is probably like 500 pages.\n\nUnless the whole business you’re starting is ACH, just find a provider to take care of ACH for you.\n\nstripe, square, modern treasury, etc', 'Just took a look at it. 720 pages. Soo much technical information. Yes, however if you have a specific question a lot of information is google-able.', 'https://www.nacha.org/rules/operating-rules', 'What are you needing to do? Is it a specific type of ACH file? I used to have to work pretty closely with ACH (about 10 years ago) for the most part they are all standard layouts with some different types of addenda records.  That is the right resource you have in the link - I used to get a new book every year for about 7 or 8 years before I just went back to the original with all my notes on it. Very seldom do established formats change - just new types introduced.', '[moov.io](https://moov.io)', 'Good to know, the format is one part but also the rules that originators need to follow for data security and compliance.  It sounds like from your comment and the other comments that the book would be a good place to start.']"

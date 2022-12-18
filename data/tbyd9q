@@ -1,0 +1,5 @@
+0
+Plaid...
+2022-03-12 06:44:44
+"For anyone that uses **Plaid** or **Yodlee** for account verification / connecting accounts - If you have the same issues we did, with failed account connections and missing banks - we created a solution for our own product that increases connection success rates by up to 48% points and adds over 1,200 additional accounts vs single Plaid connection. We're now sharing this with others. DM me if interested"
+"['Ok. How?', ""We also built an API that provides investment account data in real-time and has much higher authentication success rates. Check [Realize](https://www.realizefi.com/) out if you access user's brokerage account data! Our API can also be used to send orders to brokerages."", 'Yeah I’ll bite as well. How?', 'nice landing page', ""Yeah, who built your landing page? Y combinator set you up with someone? I feel most of their portcos' sites look v similar"", 'We used Webflow for most and then exported for some custom stuff. The API quality is even better than the landing page!']"

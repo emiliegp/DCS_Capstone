@@ -1,0 +1,12 @@
+0
+Alternative to Stripe Issuing
+2022-07-21 17:57:06
+"Hi Everybody, First time posting here, I just have a quick question.
+
+ I am looking a similar product for Stripe Issue, or a type of virtual credit card, that will allow me to 
+
+1. allow the card  to be use on multiple merchants 
+2. card authorization will not validate the address information, so i can use a different name and address for purchase. 
+
+Stripe Issue can help me to achieve all these requirements, because I can create a new user for different address. If there is no such thing existed, can you tell me if there is any alternative to stripe issue, which is more friendly to personal use? Thank you very much and have a great day."
+"['Marqeta', 'https://lithic.com/', 'Corecard or i2c will give the most flexibility.', 'Apto and highnote seem pretty interesting', 'Do I have to contact them before signing up ?', ""Marqeta doesn't do credit cards. Its just a skin over deserve"", 'Thanks for the reply. I got rejected by them. Saddd', 'Got it. I will give it a shot. Thanks.', 'Very interesting. I will take a look thanks.', 'No just sign up on their website for a sandbox account. \n\nBut to go to production you’ll need to go through their due diligence process and I think your point #2 will be a problem because every issuer will do address verification. \n\nCan you expand on your use case as to why you need to use a different name and address?', '??? Marqeta is the card issuer processor and has built the platform from the ground up. Deserve provides them program management', 'Got it. Thanks a lot.', ""pretty sure the issuer is sutton bank? Marqeta is not a FDIC insured institution and cannot issue a credit card. It's on a partner bank and then Deserve runs the entire program. If the issuer is a bank and the PM is deserve what exactly does Marqeta do??  \n\n\n Also, the pricing from Marqeta is equivalent to deserve pricing"", 'Correct. There will be an issuing bank like Sutton (although this bank doesn’t do credit). But the actual card transactions need to buy stores, reported, processed through an issuer processor. \n\nMarqeta built this piece from the ground up. Deserve can use either Marqeta for the processing or someone else. \n\nThe fact that pricing is similar, that’s a value based business decision.']"

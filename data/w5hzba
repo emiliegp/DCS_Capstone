@@ -1,0 +1,5 @@
+0
+Plaid for prime broker data
+2022-07-23 04:41:32
+"I'm looking to use plaid to pull investments data from prime brokerages serving institutional clients.  For example, pulling NAV and returns data from a hedge fund with a prime IBKR account.  Does anyone know if they support this or of some service that does?"
+"['None of the aggregators do investments well. I am an MX fanboy, but you probably should go with Yodlee which is best for wealth/investments.', 'Fincura', 'Gresham Technologies offers an outsourced data aggregation solution!', '100% this. Yodlee is definitely the strongest vs Finicity, Plaid, MX, Stripe, for investments']"

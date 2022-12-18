@@ -1,0 +1,9 @@
+0
+How to reverse engineer card nickname on Teller
+2022-11-25 03:17:10
+"Hi all - our team likes to use Teller to link credit/debit card info, but it doesn't pull in the card nickname (e.g. it just says Chase instead of ""Chase Sapphire Reserve""). Plaid does this but the system is unstable.
+
+Has anyone figured out a way to figure out the card nickname on Teller using the information you can currently pull from it? If not, any other suggested options besides Plaid?
+
+Thanks in advance!"
+"[""I didn't realize that they were still in business. The API hasn't been updated in 2 years.""]"

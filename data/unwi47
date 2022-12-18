@@ -1,0 +1,33 @@
+0
+Query regarding developing a payment application
+2022-05-12 18:41:09
+"For all the #softwaredevelopers & #marketing experts out there, I need some information/guidance with regards to launching a local payments #mobileapp in #qatar that's not driven by the number of downloads however, by the number of transactions.
+
+To #softwaredevelopers :
+
+- What are some of the technical factors to consider before rolling-out a new application?
+- What are some of the challenges to expect/foresee post launching the app?
+- How do you keep a solid support team?
+- Initially, isn't wiser to test first with an IOS platform before Android? 
+- How difficult and time consuming is it to update and make tweaks to the existing app every now and then?
+- What are some of the things to keep in mind in the testing-phase of the app?
+-How important is it to start with a beta release?
+- Other things to consider in sustaining the app?
+
+To #marketing experts:
+
+According to an InMobi survey, the number one challenge facing app developers today isn’t design or development. It’s #marketing.
+
+- What are some of the effective and efficient strategies to promote an app?
+- What are the best ways to attract companies to buy-in to your app?
+- What are some of your challenges from your personal experience?
+- Is registering a domain and developing a web-base site still important today or at least in the initial stages?
+- The target audience is basically every adult that has access to digital payments, in this case how do you leverage each age group?
+- What are some of the best data analytics tools out there to track and monitor to manage performance. 
+-How do you combat customer churn?
+
+
+Also, feel free to add anything useful not mentioned above. 
+
+Thanks in Advance!"
+"[""Wow, there are really a lot of questions, but as a person involved in the development of fintech applications, I can say that you should start with two other important questions. \n\nWhen it comes to a payment application, it's important for you to meet security and compliance requirements. Any companies providing payment services must comply with PCI DSS and EMVCO. You should learn more about these regulations in order to take this into account both when developing the functionality of the application and when promoting it.""]"

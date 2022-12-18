@@ -1,0 +1,19 @@
+0
+EU Bank account with free API (OpenBank API) - Similar to Revolut
+2022-07-29 03:58:48
+"I want to automate some bank transfers (inside the EU) and I need access to a Free API, but I can't find any platform that allows this (if Revolut allows me to use their internal API it will solve all my problems). All the services require certifications and complex processes.
+
+**Requirements:**
+
+* Free bank transfers inside the EU (similar to Revolut)
+* Possible to use Bank transfers using API
+* Needs to be possible to charge the Account using an external credit card (similar to Revolut)
+* Needs to be possible to get the balance using the API
+* Get a prepaid credit card (master or visa) that allows connecting to Apple pay or Google pay
+* Possible to create/liquidate ""Saving accounts"" - (similar to Revolut and N26)
+
+Some services that I found that do the work:
+
+* [https://www.pecunpay.es/productos](https://www.pecunpay.es/productos) and [https://www.pecunpay.es/api](https://www.pecunpay.es/api) (but seems not very up to date) (cost 1€ per month)
+* Anything else?"
+"['[https://tink.com](https://tink.com)', 'Why not just use Revolut?', 'Following this. \n\nI need a bank that will allow my app to receive payments from consumer and pay to other businesses via bank transfer.', 'I am interested too in this process', 'I want to use API, to automate bank transfers... is this possible using Revolut normal account?', ""I think it's possible for Revolut Business. But ask support to be sure""]"

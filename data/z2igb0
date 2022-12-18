@@ -1,0 +1,5 @@
+0
+"Hi Guys, our clients use different Payment Partners like Paypal, Stripe, PayU to accept payments and we need to be able to fetch their data directly onto our platform, with their consent, of course. Is there a way to be able to do this. thanks"
+2022-11-23 18:16:31
+""
+"['Zapier. 100%', 'Codat or Rutter might be worth a look', 'What type of data? The transaction data ?', 'Build a custom backend that integrates with the various payment APIs? Stripes is incredibly comprehensive, well documented and generally lovely to work with.', 'QisstPay has aggregated data', 'Yes', 'Plaid or Finicity.\n\nMX is a shit show and can’t implement.', 'Look into if they have network tokens or dpan data . U would need to decrypt anything that involves card details and would put you in pci scope . Just looking for amounts there should be ways to get that info passed from the processor via APIs']"

@@ -1,0 +1,9 @@
+0
+what APIs to use to buy/sell stocks
+2022-05-30 02:06:36
+"Does anyone know what APIs to use to buy/sell stocks? I've read that some apps do it through NYSE but I doubt it is easy to connect and use their APIs for a small company or a startup without a significant number of transactions. 
+
+&#x200B;
+
+Thanks!"
+"['TD, IB, RealizeFI, ETrade, Alpaca all have apis that do this. But a quick Google search will explain the differences of the brokerages and their sdks, etc.', 'To adding snaptrade to that list as well. The api supports stocks and crypto.', ""I'll add apex to the list.  Also rithmic.  I'm also looking for a solution here too, preferably one not tied to a specific broker or custodian."", 'DriveWealth', 'https://www.realizefi.com let’s you trade from most major brokerages in the US', ""Hello there! I am a bot raising awareness of Alpacas\n \n Here is an Alpaca Fact:\n \n Alpacas are healthy grazers and do not decimate natural vegetation like goats.\n\n \n ______ \n \n| [Info](https://github.com/soham96/AlpacaBot/blob/master/README.md)| [Code](https://github.com/soham96/AlpacaBot)| [Feedback](http://np.reddit.com/message/compose/?to=JustAnAlpacaBot&subject=Feedback)| [Contribute Fact](http://np.reddit.com/message/compose/?to=JustAnAlpacaBot&subject=Fact)\n \n ###### You don't get a fact, you earn it. If you got this fact then AlpacaBot thinks you deserved it!"", 'Just piggybacking here to add polygon.io', 'bad bot', ""Thank you, SkeuomorphEphemeron, for voting on JustAnAlpacaBot.\n\nThis bot wants to find the best and worst bots on Reddit. [You can view results here](https://botrank.pastimes.eu/).\n\n***\n\n^(Even if I don't reply to your comment, I'm still listening for votes. Check the webpage to see if your vote registered!)""]"

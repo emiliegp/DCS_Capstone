@@ -1,0 +1,7 @@
+0
+How to know type of merchant from transaction
+2021-11-01 18:43:55
+"Hey everyone, so I am thinking of building an app that will have to integrate with open banking APIs of banks in my country. My question is: how will I know the type of merchant from a transaction? For example if it’s a pharmacy, gas station or a restaurant. Like Revolut does it.
+
+All the open banking APIs of local banks don’t have such information when you fetch transactions from an account, so I guess there should be another way, right?"
+"['Usually its based on MCC. Open banking usually provide it with transaction info.', 'Normally is the association (Visa, Mastercard, Discover) which gives you this kind of information through data elements in the international standard iso 8583. (https://en.wikipedia.org/wiki/ISO\\_8583)', 'Thank you! I emailed one of the banks now and I’m waiting for their response because their DOCS don’t specify it :)', 'Thank you! I will see if the banks can provide that :)']"

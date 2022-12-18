@@ -1,0 +1,5 @@
+0
+Recommendations for automated KYC/AML services in UK?
+2022-11-04 19:50:29
+"As a software engineer, I'm looking into third-party integrators for KYC/AML - currently Veriff seems to be the only full AML/KYC solution. Any other suggestions for people who are more familiar in the space?"
+"['Veriff\nJumio\nNetki \nOnfido\nSumSub \n\nAll worth investigating depending on what you want.', 'What do you mean by automated? Outsourced to a third party? Customer enters their info online?', 'I’ve heard good things about comply advantage and Yoti - depends on your AML policy and requirements for screening clients. What is your proposition? It may be that a full KYC check isn’t actually required.', 'My two cents are : if company claims doing both KYC and AML - then I would actually challenge it. Questio. to OP is what is the actual problem you nees to solve? Is it onboarding: doing IDV and screening for sanctions/pep etc? Is it online transaction screening for AML?\n\nIn threas there are many companies named who do one or another very well.']"

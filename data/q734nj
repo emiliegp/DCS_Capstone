@@ -1,0 +1,10 @@
+0
+how do fintech companies in Canada integrate with banks?
+2021-10-13 15:04:03
+"In the US, plaid seems to provide an API that lets fintech startups integrate their apps with banks directly.
+
+
+Is there anything similar in Canada?
+
+Or anyone know how fintech apps integrate with banks in Canada?"
+"['Plaid is available in Canada. Also bank doesn necessarily have to have an API for integration with 3rd parties. I believe initially Plaid use to do a lot of screen scraping. They may now have agreement with the bank to integrate.', 'I believe Plaid is available in Canada, and there’s also https://flinks.com which I think is a Canadian company', 'They generally use plaid, we don’t have open banking here yet and the banks don’t really provide open APIs.', 'Flinks. Zumrails. People’s trust offers API driven services as well.', 'Depends on the banks access points - we do H2H if required - API preferred!', 'Have you looked at PAD via gocardless? https://gocardless.com/guides/pad/payments/', 'Last I heard TD was suing Plaid, not sure if anything has changed since then. As far as I’m aware, it’s still screen scraping in Canada, but I have no non-public knowledge to base that off']"

@@ -1,0 +1,5 @@
+0
+Good portfolio projects to show off on a resume?
+2022-05-07 11:26:39
+"I’m a 4th year student coming from a data/finance background, wondering what sort of portfolio projects may impress in this domain?"
+"['plaid is a good place to start, signup for free, sandbox will allow you get connected to 100 real bank accounts, from there, pull the data, do something creative with it.', 'Build a model on Numerai', 'Will look into that, cheers.', 'There are other things too, I am not sure how proficient you are at programming, but if you can, do check out some ""Transaction Enrichment"" projects out there. I am assuming you already know how jumbled some transaction data can be, sometimes there\'s bits and pieces of who this transaction is from.\n\n&#x200B;\n\nSo what you can do is, get some sample data from github repos or kaggle, do some web scraping and try to decipher the transaction\'s merchant name and see how close you can get. It\'s fairly advanced thing to do, infact there are entire companies, such as HeronData, who\'s entire business model is to provide this ""data enrichment"" APIs.', 'Ohh that sounds awesome, thank you I really appreciate your help.']"

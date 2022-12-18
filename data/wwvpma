@@ -1,0 +1,11 @@
+0
+"Which NASDAQ data API is your favorite? (cheaper & many data columns, daily data)"
+2022-08-25 07:43:54
+"We are trying to build financial data platform.
+
+Now looking for stock market daily price data 
+
+( later we will add volume, quarterly financial statement etc)
+
+To start this, which financial data APIs do you recommend?"
+"['I would like to know too! What’s your project like? I would like to join a team and confound something together. Let me know! \n\nBest\n-B', 'barchart', ""There's a lot of players in the game and the type of exchange data makes it more convoluted. \n\n&#x200B;\n\nWhat do you mean by NASDAQ data? Real-time, delayed, or EOD? Do you want the SIP from NASDAQ, last sale from NASDAQ, NASDAQ Basic? All of these are pricing feeds. All of them are extremely expensive and have display fees, per user fees, and monthly reporting. Be prepared to spend $2-3K just for the feed, $500-6500 in display fees, and \\~$1 per user per month for Real-Time. \n\n&#x200B;\n\nDelayed is still about $1-2K/mo and if you're getting the SIP there's an additonal $250/mo for one of the exchanges that has a delayed display fee. There's no per user or reporting fee though. \n\n&#x200B;\n\nEOD is inexpensive, no display fees or per user fees but you'll just get OHLCV. \n\n&#x200B;\n\nMost startups start with a real-time IEX pricing feed because it's cheap, no display fees or per user fees (as long as the latency is > 15ms). But the drift from NBBO is significant for low/mid cap stocks because the trade volume for those stocks will be significantly lower than other exchanges. Some providers are combining a 15min delayed feed (no display fee or per user fee) with IEX real-time to make a 15min price floor for those low/mid cap stocks. \n\n&#x200B;\n\nI work for a data provider (who sells what you're looking for). Happy to answer any questions you have or talk more about fintech, dm me if you're interested.""]"

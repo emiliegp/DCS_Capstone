@@ -1,0 +1,11 @@
+0
+Banks that give real-time transaction notifications
+2021-10-21 06:12:37
+"I'm trying to build a personal finance app or integration. I'm looking for some bank, US-based, that can give me near-real-time transaction notifications about pending and cleared transactions. Many banks have mobile apps that will notify you with transactions. I want to somehow plug into that in order to feed my personal finance overview for my household.
+
+Of course, the obvious place to go is Plaid, to integrate with a wide range of banks. They do seem to have some kind of support for notifications, but the rep I talked with today doesn't know of any banks where this is any kind of a reliable notification mechanism.
+
+I want couples like my wife and myself to be able to communicate each transaction, and immediately see how that affects our budget. Having the budget be the focal point of communication, including updates, has proved to be a real challenge.
+
+Anybody have some hints for me?"
+"['Look at Teller.io and how they get their data. You can try to simulate mobile clients and eventually tap into some sort of endpoints that will notify you on the transactions. \n\nBusiness banks like Mercury have webhooks for this sorts of stuff. \n\nFor consumers you’d need to reverse engineer it 🤷🏻\u200d♂️', 'Thanks for the hints. Of course I was hoping for a nicer answer, but thank you for the real answer!']"

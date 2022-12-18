@@ -1,0 +1,9 @@
+0
+Alternative Digital Wallet/Payment Gateways?
+2022-11-16 16:19:14
+"Please see title. My startup is looking for a payment gateway and payment wallet service similar to Skrill or PayPal that we can use to centrally accept and distribute payments. Our app was recently delisted on PayPal due to policy changes and not accepted at Skrill.
+
+We are US registered, if that is relevant.
+
+Thanks!"
+"[""Stripe and Adyen both offer great options for this - for Adyen you'll need decent volumes because their minimum billing for platforms is $20k a month. Stripe have no minimums, for Connect"", 'Use QisstPay and you can rotate between multiple providers so if one turns you off you can instantly turn another one on', 'What does your startup do? By any chance falling under high risk business e.g sports and betting? Please share more details.']"

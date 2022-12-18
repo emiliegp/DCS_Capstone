@@ -1,0 +1,26 @@
+0
+Advice needed for FinTech SaaS platform - tools / people to achieve data science challenges
+2022-02-11 01:03:29
+" Looking for advice on who to hire and / or what tools would be best to use:
+
+I am building a SaaS company providing a platform for FinTech companies. We have some data science challenges that I want us to build solutions for, which are:
+
+**Data Challenges**
+
+1. Reconciling two datasets against one another to find matches, for example matching invoices to bank statements, where there is uncertainty/fuzziness in the data (no explicit match, amounts and dates may vary etc)
+2. Comparing two datasets to look for potential matches between two datasets of customer data, for example comparing known data about customers with the OFAC / HM Treasury sanctions lists to give a probablistic score as to whether a customer is a prohibited person on the sanctions list.
+3. Data enrichment, where we take 'messy' data such as a string like '/STARBUCKS 3199/LONDON E12/GBR' and identify that merchant as Starbucks, give it a more recognisable name to consumers (e.g. 'Starbucks'), associate the logo with that merchant, and group that & other Starbucks locations under that common merchant so we can see the aggregate spend at Starbucks.
+
+Additionally I would like these systems to improve over time. I understand we may be able to use tools like Splink + Apache Spark to achieve stuff like this, but we lack the practical experience within the business to know which tools to use or how to implement them to develop this product.
+
+I have a product team in place already to do UX design and developers to code out the solution, and budget to hire 1-3 people to work on developing this solution using either existing tools on the market (software selection & implementation) or directing the build of tools to achieve this, though I suspect we'd be reinventing the wheel if we did.
+
+**Questions**
+
+A. What job titles should I be hiring for?
+
+B. Are these problems/use cases common enough to use the same tool(s) or do they require different approaches?
+
+C. What tools or available software might be suitable so we can look to hire someone with experience using them?
+
+I'd massively appreciate any help with this, thank you."

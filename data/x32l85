@@ -1,0 +1,9 @@
+0
+PSD2
+2022-09-01 18:58:40
+"I recently tried to make an online payment with a debit card to Amazon and Screwfix.  The payments failed.  When I called my bank they said that the Merchant did not comply with recent PSD2 regulation and that I should call them to let them know (lol).  I used PayPal in the end.
+
+Overzealous implementation of PSD2 by my bank?  Mad that they would think that this was a good idea.
+
+EDIT: UK bank"
+"['Screw fix were the merchant, or amazon? Bad SCA merchant implementations are (incredibly) still happening, unfortunately.', 'Seems like there are 2 merchants. But surprised that Amazon will have a issue with PSD2. They will be using an acquirer that should have already made the changes on their side to connect with the issuer.  Same as well with screw fix. However, where there is no connection, the payment should go through as long as you input correct card number, expiry date, and CVV2', 'Failed for an Amazon payment as well as a Screwfix payment.  Both were flagged with PSD2 problem according to my bank.', 'The common ground in the 2 failed payments was my bank so my suspicion lies with them.\n\nFor the Amazon payment my wife used her card (different bank) and it worked.  The PayPal payment I mentioned in my post was used to complete the Screwfix payment.']"

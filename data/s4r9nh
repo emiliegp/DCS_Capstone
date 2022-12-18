@@ -1,0 +1,6 @@
+0
+Useful API for stock market analysis
+2022-01-16 05:53:05
+"Hi. I am newbie for fintech. Which API would you recommend to analysis top IT company's stock price and company activities?
+I appreciate your help."
+"['You might find [https://alpaca.markets/](https://alpaca.markets/) useful. They have a great entry level offering. Sadly no options trading there and they are young and have some issues when I stopped using them.', 'If you are European, you might find [https://www.lemon.markets/](https://www.lemon.markets/) useful for historical data on stocks and ETFs. They are still quite young, but working continuously to improve the API based on user feedback.\n\nDisclaimer: currently work for [lemon.markets](https://lemon.markets) and use their API. :)', 'For data API consider xignite. Tiingo, quandl, iex', 'tks! I found nasdaq bought quandl. great news. tiingo is handy. I love it. iex and xignite look like the solution for big company. Am I right?', 'I used be with xignite, pretty good service but more economical options like tiingo.   Iex pricing is a bit complicated but easy to start with if your needs are light.']"

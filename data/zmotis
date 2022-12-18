@@ -1,0 +1,5 @@
+0
+Is it possible to get a virtual card that is linked to an already existing bank account or another virtual card on your phone?
+2022-12-16 03:08:16
+"We are building an app that ideally would have a virtual card in your apple wallet, however that card acts as a middle man between the users bank and the merchant. Is this possible?"
+"[""You want to have your branded virtual card attached to another bank's card? Will they have an account with your platform?"", ""Yes, it's possible."", 'Yeah it’s possible, is this like a privacy.com where people get virtual cards to protect themselves while shopping online? You just connect to the users bank with like a plaid.', 'This is what Curve used to do a few years ago, with a physical card', 'That’s right! Yes they will have an account with us. Is this possible?', 'Can you elaborate how i might go about doing this?']"

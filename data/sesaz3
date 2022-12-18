@@ -1,0 +1,11 @@
+0
+What was the best-designed REST API for Banking that you people have ever seen?
+2022-01-29 01:40:37
+"Hi there,
+
+Stripe treasury is still not publicly available, but what are the other best-designed banking (Account, Cards, Transactions, Loans, Mortgages, Insurance, Loyalty, Customer, etc.)?
+
+Any help would be appreciated.
+
+Thanks"
+"['Mercury has decent API for accounts, transactions and a bit of cards for B2B customers. \n\nYou can check other vendors here:\nhttps://www.awesomefintech.com/category/banking/', 'Can you refine the ask?  What products are you looking to build upon?  Are you shopping for a core platform and payments engine that you can integrate into your 3rd party (or homegrown) tools?', 'ModernTreasury', 'Weavr.io Embedded Finance platform for whitelabled IBANs and virtual / physical card issuance via API 👌🏻', 'Https://developer.revolut.com', 'Open banking data - nordigen.com', 'FAPI standard and OBIE (UK) open banking standard (uses FAPI) are tops \nBoth can be found on GitHub', 'https://integrated-finance.readme.io', 'Thanks! Really appreciated!']"

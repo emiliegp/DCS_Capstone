@@ -1,0 +1,7 @@
+0
+What APIs to use to get bill pay info
+2022-05-25 06:52:00
+"Not sure whether this has been asked. Would like to know what APIs to use to get bill pay info, specifically to get upcoming bill info including due date and amount, just like in Mint. Does Plaid or MX have this? Or any other providers?
+
+A related question is the cost for these calls."
+"['This is called bill presentment. Billgo, Finovera, inlet, FIS, profitstars…', 'No, plaid does have products to connect to\nMultiple credit cards but it looks\nInside the card, not externally. \n\nScraping payment date and amount would be great, but different.', 'From my understanding a bank can use MX to do this.']"

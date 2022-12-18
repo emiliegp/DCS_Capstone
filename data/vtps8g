@@ -1,0 +1,23 @@
+0
+Cybersecurity Solution for an RIA Firm
+2022-07-08 04:43:29
+"Hi All,
+
+I work for a financial advisor and have been tasked with looking into our cybersecurity. I do not have an IT background, but am somewhat computer savy. We have 10 employees so we are not very large.
+
+Currently we contract with a local shop when we need IT help, which isn't very often. However, our current firewall is outdated (Dell Sonicwall APL31-0B9), and our current antivirus solution is embarrassing (not a business solution). 
+
+I am aiming for compliance with the SEC's cyber checklist, and currently we need a lot of work for that. [https://www.sec.gov/files/OCIE%20Cybersecurity%20and%20Resiliency%20Observations.pdf](https://www.sec.gov/files/OCIE%20Cybersecurity%20and%20Resiliency%20Observations.pdf)
+
+I was wondering if anyone had any recommendations on what we should get. Should we purchase a new firewall, plus a business antivirus license? Sophos MTR? Or would you steer towards something like Itegria's Virtual desktop solution ($300\~ user a month)
+
+I am thinking it may be more practical to potentially hire an IT specialist to help with this, or outsource it to a firm who specializes in compliance.
+
+I have realized that what we need is going to be a lot more $$$ than my boss has been paying, so I want to make a solid decision. 
+
+Apologies if this is the wrong subreddit for this.
+
+I would appreciate any opinions or reading material!
+
+Thanks."
+"['Cybersecurity in fintech is a must-have. I advise you not just to read some materials, but to entrust this work to specialists in the field of [security for fintech](https://mobidev.biz/services/fintech-software-development). They will be able to find vulnerabilities in your system and develop reliable and modern protection mechanisms for you.']"

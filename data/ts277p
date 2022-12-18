@@ -1,0 +1,7 @@
+0
+How to Build a Stripe/Paypal Clone
+2022-03-30 20:02:15
+"Hello everyone, I'm a Software Dev with zero experience in Fintech and I was wondering:
+
+How do payment apps work? How can you actually receive and send payments through your platform?"
+"['You probably want to start with simple ledger implementation (accounting 101)\n\nRest of the payments stuff is literally integration with a bunch of other vendors and payments networks. Lots of APIs on different level, and will depend on the volume of transactions you’ll have.', 'Look up moov and join their slack channel. Everything you need to know.', 'here you go!\n\nhttps://stripe.com/guides/introduction-to-online-payments', 'If you’re still available message me please.', 'Did you get a message ?']"

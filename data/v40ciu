@@ -1,0 +1,15 @@
+0
+Additional institutions added to top investment account API
+2022-06-04 00:14:46
+"I often see posts in r/fintech about issues connecting investment accounts / pulling data using Plaid  or Yodlee (common pain points: accounts disconnect every \~2 weeks, data comes in ever 12 hours, missing transactions data).
+
+We built [Realize](https://www.realizefi.com/) as a solution to this problem. Our API provides **reliable connections, real time data, and in-depth transaction details from investment accounts**. We also provide the ability to place trades, and have a number of fintechs and financial advisors using us for this purpose.
+
+Our coverage currently supports more than 200 million accounts across the major US investment institutions (Fidelity, Charles Schwab, TD Ameritrade, E\*Trade, Robinhood, Webull, Alpaca, and Coinbase.) We're releasing a few more major brokerages and crypto exchanges this month.
+
+Other companies are trying to solve the problems in this space (which is great), but it seems that they're all resorting to screen-scraping or aggregating aggregators. Those approaches lead to the same issues that we've all dealt with while using Plaid or Yodlee over the years.
+
+It's been pretty incredible to see how our customers have leveraged our API to improve their products. That being said, we're looking to partner with more developers / companies who are interested in investment account connections so that we can form our roadmap around the community's needs.
+
+You can create a free developer account [here](https://www.realizefi.com/register) and start testing using our [docs](https://docs.realizefi.com/reference/overview). We'd love to get your feedback and learn which institutions you'd like to see next!"
+"['Hey, there’s an app called Moneymade and it has exclusively fintechs on it. Many are newer and definitely not able to connect with most APIs. That’d be a great place to add compatibility from', 'Agreed! We’ll be adding alternative asset platforms in the future.']"

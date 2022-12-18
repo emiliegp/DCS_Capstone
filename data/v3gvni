@@ -1,0 +1,12 @@
+0
+How do you manage deposits for stock trading/crypto apps?
+2022-06-03 05:33:11
+"I understand that I can invoke some APIs to purchase/sell assets but how do handle a case when a user needs to deposit money into the system? Do I need to have an account somewhere to keep his money?
+
+&#x200B;
+
+Then when a user is going to purchase some assets, I assume I invoke some API, e.g. ETrade which would look like this:
+
+buy-asset(my userID, number of shares, ticker)
+
+Do I need to have an account at ETrade for this user with some balance available?"

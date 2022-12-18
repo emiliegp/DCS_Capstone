@@ -1,0 +1,5 @@
+0
+Why do Fintech Apps like Revolut or N26 have to use Apple/ Google Pay to enable NFC payments and don't they do it just on themselves?
+2021-10-11 05:58:29
+""
+"[""On iPhones the NFC chip can't be used by the fintechs directly. On Android it's possible, but it's easier for banks to use Google Pay (also it's typically a terrible experience when banks try to implement some NFC payment feature into their own Android apps)."", 'exactly', 'why is it easier to use Google Pay? is it because of the device or because of android?', ""Because it's better integrated with the operating system. I think it's possible to build an alternative payment app that would work (almost?) as seamlessly as G Pay (in the Android settings exists an option to switch to another standard app for payments) but the few alternative solutions I've seen so far only build the feature into an app which has to be launched before paying.""]"
