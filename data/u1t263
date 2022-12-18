@@ -1,7 +1,0 @@
-0
-Where to get streaming options flow data?
-2022-04-12 17:09:31
-"There are a bunch of options flow services (CheddarFlow, FlowAglo, etc.) and I'm curious to know where they get their data from. I've looked at OPRA a little bit but not sure if that's the place to go. Do these services connect to OPRA directly, or to some exchange(s), or some data vendor? How much does it cost to set up a data feed? Are there legal requirements? Any other considerations I should be mindful of?
-
-More specifically, I'm exploring creating an app for options flow... tech/engineering is not the issue for me but I could use pointers on how to set up the data feed."
-"[""Hi,\n\nyou're doing market research. Best to ask directly to the most neutral party.\n\nI've looked at the first, Cheddarflow, they seem to be open to questions. But commercial so low probability. Still, possible to ask.\n\nDid you send them a question? \n\nSame for OPRA ([opraplan.com](https://opraplan.com)), seems more neutral.\n\nDid you send them a question?"", ""Thanks! I reached out to a couple of services but haven't received any responses yet... I wouldn't be surprised to hear nothing back. I haven't reached out to ORPA directly but yes that makes sense given they're netural."", 'Also, if this information is an important part, use the phone, visit their office, etc.']"

@@ -1,5 +1,0 @@
-0
-Anyone know of any financial data aggregators (like Plaid) that support Australian banks (specifically Commonwealth)?
-2022-07-08 05:53:57
-""
-"['Frollo uses Open Banking to provide data aggregation for close to 100 Australian banks, supplemented with screen scraping for another 400.', 'Have a look at: Frollo, Basiq, MogoPlus', 'Gresham Tech offers a data aggregation service and will gather any type of data from any bank/broker you choose.', 'I am also needing Australian banks. Just checking, does plaid not provide connections to these?', 'they do not', ""From what I read up on, they've partnered with Basiq to enable them to service Australia too"", ""I've seen no reference to Australian banks or Basiq on plaid's website or docs. I just reached out to support to inquire about it.""]"

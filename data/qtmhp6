@@ -1,5 +1,0 @@
-0
-What do you guys use for transaction enrichment?
-2021-11-14 20:42:28
-"I was wondering what do you guys use to ""enrich"" your transactions. I see a lot of services like herondata, fingoal etc that do it for you but isn't there an open source project ? BTW for those of you unlisted, enrichment means adding more information to the transaction from some given attributes such as a Logo for the company you just paid X amounts to etc."
-"['Hey, I was recently looking at the Masters card API for vendor enrichment.']"

@@ -1,5 +1,0 @@
-0
-“Open Banking” in US app
-2022-03-30 13:42:08
-"How prevalent is Open Banking in apps in the US?  OAuth, Okta, etc"
-"['Please define ""open banking"", as oauth and okta (etc?) are identity services.', 'Revolut is using it', 'OAuth is an authentication and authorization spec. Okta is a company that provides authentication and authorization services. So what, exactly, are you asking?\n\nIf you\'re asking how many banks support OAuth as an auth method and how many downstream apps actually use it, then not that many, actually. The biggies only started pushing it in earnest maybe 2 years ago. Some of them have done some very bizarre implementations. The small, traditional banks and CUs by and large do not support it.\n\nThat said, ""OAuth"" is a very reductive definition of open banking principles.', 'Here is an [article](https://www.bbvaapimarket.com/en/api-world/open-banking-makes-its-way-america-despite-little-regulatory-momentum/)']"

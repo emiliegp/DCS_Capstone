@@ -1,5 +1,0 @@
-0
-User testing a payments app
-2022-08-17 20:54:54
-"Does anybody have good resources, vendors or best practices to share? I need more users to test our app. The 3rd party vendors we are exploring (eg User testing) can’t help because our app requires their testers to provide PII to apply for a virtual card before they can start using the app. Any suggestions?"
-"['Is there a list of specific personal information required by your app? The company I work for developed an internal tool for transaction testing, maybe we can assist, but I need to know what exactly PII you need?', 'Could you update your app so that there is a way to test the app w/o requiring users to provide real PII?', 'Yes! We are putting it in a sandbox environment that should be able to do the trick. Thanks guys!', 'Sounds great.  I created userbob.com to provide user testing at an affordable rate.']"

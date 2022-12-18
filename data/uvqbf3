@@ -1,7 +1,0 @@
-0
-Is anyone interested in ETF Holdings data?
-2022-05-23 12:38:03
-"I am thinking about building an API or something that returns holdings for ETFs. So if you enter VOO, you will get all the underlying stocks and their corresponding percentages. Something like AAPL, Apple, 6%. I am thinking of collecting this data daily and allowing end-users to query historical data. So they could see how holdings change over time. But I am also open to gathering other kinds of data about ETFs.
-
-***Was wondering if this is something you or someone you know would pay for?***"
-"[""It's a nice to have option to see historical data, but current holdings are easy to get and they don't change all that much, especially for top 10 stocks in a s&p500 etf like voo, so if you're aiming at a subscription model than I'm not sure people will pay for that.\n\nWhat would be the source for your API, even on JustETF latest holdings data is from 31.03., so can you even offer near real time data to paying customers?""]"

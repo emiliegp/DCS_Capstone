@@ -1,5 +1,0 @@
-0
-API for distributing payments
-2022-10-27 04:51:17
-I am looking for an API that allows me to send payments to various users. I do not need to receive payments. I am aware of stripe connect but I do not need all the KYC and various bits and stripe doesn't make it clear if you can use it for solutions outside of a marketplace type situation. I also know of Pay Pal payments but as I understand it only allows the use of Pay Pal which is not ideal. I want to be able to automate the payments to various venders etc. I am not looking for a payroll solution. Thanks in advance.
-"['Check out interchecks: https://site.interchecks.com/', 'Lob, Checkbook.io or Mercury which would be API banking system', 'Payoneer or wise could do this for you.', 'It might be overkill but you could look at Converge - https://developer.elavon.com/na/docs/converge/1.0.0/overview', ""Thanks that looks promising. I'll check it out"", 'Thanks I’ll check those out', 'Cool I’ll check those out as well. Thank you']"

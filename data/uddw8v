@@ -1,5 +1,0 @@
-0
-Payment fintechs that don’t rely on debit / credit cards or payment rails?
-2022-04-28 07:05:33
-Does anyone know of companies similar to AppBrilliance or GrailPay that can make payments directly from a linked bank account without a debit card or credit card?
-"['Check out my company Sila - https://silamoney.com/', '""from a linked bank account without a debit card or credit card"" = ACH.', 'leantech.me in MENA', 'India has UPI(unified payment interface) framework which lets 3rd party apps to move money between bank accounts.', 'ACH is expensive. Companies like Kevin are avoiding those rails', 'Only expensive if you use someone like stripe.   \n\n\nGo directly to a bank and use their APIs and they are less than $0.05 per ACH. Work with Nacha files directly and they are fractions of a penny...', 'There isn’t NACHA in the USA', 'looool. From experience.   \n\n\nusing bank API: $.05 per ACH  \nbuild on ACH/NACHA = $.0025 per ACH']"

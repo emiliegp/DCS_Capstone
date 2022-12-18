@@ -1,7 +1,0 @@
-0
-Risk Alerts for Card Issuers / Acquirers
-2022-06-27 19:26:46
-"What is the best source to learn about setting up risk alerts for possible fraudulent card transactions - be it an Issuer or Acquirer?
-
-I understand there are some tools (cloud-based / on-prem) available in the market where you can set up these rules and have them integrated to the card management systems, but what is the basis for defining these rules. I suppose these would be business rules, how these get implemented in the tool is a different thing."
-['Typically your banking partner together with your compliance team is setting up these risk alerts. Most likely your banking partner mandates the rules and risk alerts for this. If you’re already at a bank you know this and you’re using FIS code or something to set this up. \n\nIf you’re a FinTech and have a little more freedom from your banking partner (and you want to do better) such as wanting yo cover certain types of risk like ACH risk you should use Sardine.']

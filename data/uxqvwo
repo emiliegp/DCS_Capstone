@@ -1,7 +1,0 @@
-0
-What solution to use for processing high volume of loan applications?
-2022-05-26 06:55:22
-"My team has to process as many as 90-100 loan applications a day. We tried doing this manually at first but it would take us hours just to validate the info on the forms we were receiving. Also, fillable PDFs have been a hassle for our clients and there's an error in almost every application. Someone suggested an OCR solution and we've been using Ocrolus for a couple months, but still find ourselves doing manual checks as OCR is pretty error-prone as well.
-
-Looking for a solution that can 1) process a high volume of loan applications  2) doesn't require manual checking to validate the info and 3) can be synced to send info directly to our client database."
-"['Check out  alloy.com', 'If you are doing any SMB/SME. ForwardAI.', 'MO Technologies', '[www.useanvil.com](https://www.useanvil.com).  Sunrise Banks used them for all rounds of PPP.  Much better than OCR (you start with the data and put it on a PDF and core banking system, not the other way around) and easily adaptable to any process.', ""Well, you really need an OCR-based solution, but this OCR needs to be powered by machine learning to provide a better output. The truth is that OCR is quite a complicated solution and it's impossible to build software for every purpose. Out-of-the-box OCR is usually tailored for specific tasks (ID recognition, receipt recognition), you will need customization to meet your business needs.""]"

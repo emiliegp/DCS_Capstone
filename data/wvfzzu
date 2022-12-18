@@ -1,4 +1,0 @@
-0
-Wealthsimple API
-2022-08-23 15:14:03
-I recently opened a wealthica account and noticed that wealthica was able to connect to wealthsimple using some sort of an OAuth connection. Does that mean wealthsimple now has an API that we can use (at least to read data)?

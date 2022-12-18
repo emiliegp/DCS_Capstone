@@ -1,5 +1,0 @@
-0
-APPLICABLE TO GERMANY: Can you pay with credit cards directly to an IBAN account?
-2022-10-27 19:35:58
-"I am wondering the following - I can pay a merchant with a credit card, but I am struggling to pay a private person via credit card. Is it somehow possible without using Revolut or PayPal to pay to someone's IBAN account? What payment provider is offering such a service?"
-"['Nope, those are different payment rails.', 'In the U.S. you can do this. It\'s called ""push to card"" and Mastercard and Visa both support it. Since its powered by MC / Visa it may work in Europe as well. It\'s relatively new and not many providers have it. Most require that you send the money to an account that you own.', 'If any such service is available, the receiver should have an access to that service. \nLike if i want to receive the payment from you, I should initiate the transaction to receive via cards. \nIg services like revolut or wis or Payoneer should be able to give you that services, but i maybe wrong too.']"

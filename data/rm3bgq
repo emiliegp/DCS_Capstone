@@ -1,5 +1,0 @@
-0
-Has anyone come across any projects to open source risk models?
-2021-12-22 22:28:49
-"We've seen projects started by [moov.io](https://moov.io) for banking components, but I'm looking for projects basically for data scientists working on credit risk models."
-"['Alloy isn’t open source, but is building a credit underwriting solution', 'When you say ‘solution’, what do you mean? Are they building models? Or is this a UI with parameters that the fintech can choose?', 'Alloy is KYC/AML/Credit. definitely not a risk model.   \n\n\n[https://notafintech.company/models/](https://notafintech.company/models/)  \n\n\nHere are some models that bake in risk. Probably not detailed enough for you, but have you tried kaggle?']"

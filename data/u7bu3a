@@ -1,8 +1,0 @@
-0
-Banking apps/digital wallets with deposit/withdrawal API feature?
-2022-04-20 04:23:23
-"Are there any banks or banking apps that allow for deposits and withdrawals? 
-
-Similar to this Coinbase feature:
-https://docs.cloud.coinbase.com/exchange/reference/exchangerestapi_postdepositpaymentmethod"
-"['*or similar API method for transferring money into and out of accounts held by the same owner.', 'I had the same question. I am wondering how you deposit money to neo banks or if you build a stock trading/crypto app?', ""Right!\nI know a lot of them link with plaid but I've been working with plaid for about a year and they don't currently handle ACH transfers. They are working on it but this has been in beta for over a year. How do Robinhood, alpaca, m1 etc handle the transfer of funds. I need that sauce.""]"

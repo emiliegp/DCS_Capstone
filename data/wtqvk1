@@ -1,7 +1,0 @@
-0
-How to handle balances on banking app?
-2022-08-21 14:48:36
-"The age old complicated puzzle of showing a bunch of balances to a customer on an app and confusing the hell out out of them.  Balance vs balance avail to withdraw. With checks there are holds. That along with other holds and transactions there needs to be pending transactions shown to a customer. 
-
-Whats the best way to show the customers balance vs balance avail for withdraw? What features would you add to a real time tech stack to clarify these balances?"
-['Using cards or just accounts?']

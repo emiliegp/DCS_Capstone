@@ -1,9 +1,0 @@
-0
-Plaid not working with IKBR and now potentially Merrill Edge
-2022-03-18 06:04:25
-"Anyone else have issues with Plaid's `/investments` endpoints? They don't deliver the 2 years of holdings that are expected for IBKR, only one single day. And now Merrill Edge makes a connection but returns no data. 
-
-Is this a result of the brokerages preventing Plaid's login/scrape or API hits on behalf of a third party? ie is this a problem that is going to keep happening as they dance between brokerage's efforts to prevent them scaping and their creative ways to keep scraping? Or is it a different problem? 
-
-Any one know? Contacting support has yielded little insight over the last month"
-"[""Hi OP,\n\nI co-founded an [investments API](https://www.realizefi.com/) after running into similar issues. We're able to pull 15 years worth of account data. We also pull all account data in real-time or at most every minute. We'll be adding IBKR and Merrill Edge very soon!""]"

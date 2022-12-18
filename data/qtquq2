@@ -1,9 +1,0 @@
-0
-Seeking feedback for portfolio tracker app
-2021-11-15 01:25:01
-"I'm working on a crypto portfolio tracker right now, and I'm mainly looking for feedback on the product for anyone feeling to give it a shot. 
-
-My long-term vision is to create an app to track all of your net worth, including bank and brokerage accounts, as well as crypto. However, since the scope of this is quite insane, I'll be starting with just crypto in the beginning.
-
-I'd appreciate if you'd try it out at [https://polarwealth.com](https://polarwealth.com) – let me know your feedback in the comments, using the chat inside the app, or [join the Telegram group](https://t.me/polarcommunity)."
-"['Have you see what titan.com is doing? I think you can get couple ideas on the UX from them.', 'I’m new to techy stuff but how realistic is it to be able to link in with brokers?\n\nDo places like Robinhood, Trading212, Fidelity, HL, etc offer the ability to sync up data? Noticed that eToro have an API for this.. is that an ideal way in?\n\nAlso app is look swish, did you code and design solo?', 'Thanks for mentioning that app, their design looks indeed quite clean', ""I'd probably have to use Yoodle and/or SaltEdge, which provide one single API for all of these brokers, even if they don't have an API. It also works for bank accounts. It's very old school but it kinda does the job.\n\n&#x200B;\n\n>Also app is look swish, did you code and design solo?\n\nThanks! Yeah, I did :) Although it was more like just coding whatever came into mind than actually thinking of some design."", 'Ah wow sounds great will check them out, thanks!\n\nNice one - inspiring solo effort for a newbie!']"

@@ -1,9 +1,0 @@
-0
-"Historically, when a fintech when bankrupt but had FDIC insurance, what happened to customer money? Do you have any examples of what happened?"
-2022-07-28 13:39:54
-"Ex: were all the customers made whole or did they have to take a haircut? Some redditors warned me that technically, your account on the app is not necessarily equivalent to the FDIC insured bank account behind the scenes (which could be owned by the fin tech's partner bank). But what happens to the customer? I am not sure how this works legally in the USA or what this means
-
-&#x200B;
-
-**Do we have any examples?** "
-"['Most fintechs nowadays don’t ever have your money in their own accounts. The money instantly goes to the partner bank. You can probably read the terms and see in what cases this is true.', 'You have to read the terms to figure out if the accounts are indeed FDIC insured — this is not guaranteed especially if you the FinTech uses a provider who provides the cards and the backed account isn’t FDIC insured at each user account.\n\nThat said, it is true that the FinTech itself isn’t FDIC insured — it’s the sponsor / partner bank in the background who is. \n\nReading the terms will clarify these questions.', 'most likely the accounts are sub-ledgers. Best to call the bank that issued the cards / accounts.', ""Just because a fintech offers FDIC insurance doesn't mean it itself is an FDIC-member bank.  \n\nA lot of fintech banking partnerships (i.e., Chime) are just direct accounts with an FDIC-insured bank but with a fintech's skin, so the fintech going under won't affect the account (granted, UX would need to change).  \n\nCustomers of fintechs that instead hold accounts (either omnibus or individual) at banks on behalf of their customers, however, would theoretically be frozen out of their funds temporarily until released in bankruptcy.""]"
