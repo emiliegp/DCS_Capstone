@@ -2,7 +2,8 @@
 
 December 2022
 
-# Introduction—
+# Background 
+
 This repository is a culmination of my Computer Science & Digital and Computational Studies Coordinate major at Bowdoin College. When brainstorming different avenues and passions I could explore through this semester-long project, what repeatedly came to mind was a recent conversation at work: during my summer internship, my manager asked for my phone. Though slightly strange, my manager was relatively young, there is nothing incriminating on my phone, and I am an open person, so I handed it to him. Immediately, he opened ‘Venmo,’ a service that allows you to “move money between it and your bank accounts, so your cash is exactly where you want it, when you want it” (Venmo). Then, he turned to me and said, “If I wanted to, I could drain all of your bank accounts in seconds,” then handed back my phone. Unsurprisingly, I was shocked. 
 
 Since that conversation, I have of course added a password to Venmo, but I continue to be plagued with the same regret: how could I hand over my phone along with its capacity to transfer money with no hesitation? Inspired by Cai et. al paper "Trends in FinTech Research and Practice” this initial question evolved into an exploration of the publics' definition of fintech and how this term is transforming people's perception of money using the burst algorithm on a corpus of Reddit posts. 
